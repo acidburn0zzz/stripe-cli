@@ -36,9 +36,9 @@ require (
 	github.com/x-cray/logrus-prefixed-formatter v0.5.2
 	github.com/xanzy/ssh-agent v0.3.1 // indirect
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
-	golang.org/x/net v0.0.0-20211101193420-4a448f8816b3 // indirect
-	golang.org/x/sys v0.0.0-20211102061401-a2f17f7b995c
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
+	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/sys v0.5.0
+	golang.org/x/term v0.5.0
 	google.golang.org/genproto v0.0.0-20211101144312-62acf1d99145 // indirect
 	google.golang.org/grpc v1.41.0
 	google.golang.org/protobuf v1.27.1
@@ -67,7 +67,7 @@ require (
 	github.com/src-d/gcfg v1.4.0 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.7.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/src-d/go-billy.v4 v4.3.2 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
