@@ -41,7 +41,7 @@ require (
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	google.golang.org/genproto v0.0.0-20211101144312-62acf1d99145 // indirect
 	google.golang.org/grpc v1.41.0
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/ini.v1 v1.63.2 // indirect
 	gopkg.in/src-d/go-git.v4 v4.13.1
 	gopkg.in/yaml.v2 v2.4.0
